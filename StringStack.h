@@ -1,7 +1,3 @@
-//-----------------------------------------------------------
-//  Purpose:    Header file for the integer Stack class.
-//  Author:     John Gauch
-//-----------------------------------------------------------
 
 #include <cmath>
 #include <iostream>
